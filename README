@@ -1,0 +1,2 @@
+The Autonomous Robot is desgined to follow an electromagnetic signal produced, and received by solenoids. This code uses the
+voltage received to determine how close, or far it is away from the controller.
